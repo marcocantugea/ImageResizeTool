@@ -1,0 +1,4 @@
+D:\Proyectos Desarrollos\github\FolderStorageMonitor\FolderStorageMonitor\mcgImageTools\bin\Release\mcgImageTools.dll
+D:\Proyectos Desarrollos\github\FolderStorageMonitor\FolderStorageMonitor\mcgImageTools\bin\Release\mcgImageTools.pdb
+D:\Proyectos Desarrollos\github\FolderStorageMonitor\FolderStorageMonitor\mcgImageTools\obj\Release\mcgImageTools.dll
+D:\Proyectos Desarrollos\github\FolderStorageMonitor\FolderStorageMonitor\mcgImageTools\obj\Release\mcgImageTools.pdb
